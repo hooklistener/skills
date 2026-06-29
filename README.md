@@ -1,5 +1,7 @@
 # Hooklistener Skills
 
+[![skills.sh](https://skills.sh/b/hooklistener/skills)](https://skills.sh/hooklistener/skills)
+
 Agent skills for operating Hooklistener from AI coding assistants.
 
 This repository contains reusable instructions that teach agents how to use Hooklistener surfaces correctly: CLI, MCP, and workflow-specific references.
@@ -22,13 +24,13 @@ It covers:
 
 ## Install
 
-Ask Codex to install the skill from this repository:
+Install with `skills.sh`:
 
-```text
-Use $skill-installer to install https://github.com/hooklistener/skills/tree/main/hooklistener-cli
+```bash
+npx skills add hooklistener/skills --skill hooklistener-cli
 ```
 
-Restart Codex after installation, then invoke it explicitly:
+Restart your agent after installation. In Codex, invoke it explicitly:
 
 ```text
 Use $hooklistener-cli to debug this webhook integration from the terminal.
