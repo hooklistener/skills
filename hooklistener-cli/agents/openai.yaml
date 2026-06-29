@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hooklistener CLI"
+  short_description: "Use the installed Hooklistener CLI"
+  default_prompt: "Use $hooklistener-cli to debug a webhook integration from the terminal."
