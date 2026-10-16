@@ -1,7 +1,7 @@
 ---
 name: hooklistener-cli
 description: >-
-  Use when Codex needs to operate the installed Hooklistener CLI or teach a user how to use it: discover `hooklistener` command syntax, authenticate with device login, open local tunnels, listen to endpoint webhooks, create/list/show/delete debug endpoints, inspect or replay captured requests, run saved cases, create anonymous endpoints, share requests, manage uptime monitors/static tunnels/org/config, generate diagnostics, completions, logs, or decide when Hooklistener MCP is a better fit.
+  Use when an agent needs to operate the installed Hooklistener CLI or teach a user how to use it: discover `hooklistener` command syntax, authenticate with device login, open local tunnels, listen to endpoint webhooks, create/list/show/delete debug endpoints, inspect or replay captured requests, run saved cases, create anonymous endpoints, share requests, manage uptime monitors/static tunnels/org/config, generate diagnostics, completions, logs, or decide when Hooklistener MCP is a better fit.
 ---
 
 # Hooklistener CLI

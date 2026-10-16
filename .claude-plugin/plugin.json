@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "hooklistener",
+  "displayName": "Hooklistener",
+  "version": "1.0.0",
+  "description": "Test webhooks, emails and real-time clients end to end: a public URL your agent can receive on, inspect and replay to localhost. Connects the hosted Hooklistener MCP server (sign in with /mcp) and adds skills for using it and the Hooklistener CLI.",
+  "author": {
+    "name": "Hooklistener",
+    "email": "support@hooklistener.com",
+    "url": "https://www.hooklistener.com"
+  },
+  "homepage": "https://www.hooklistener.com/mcp/claude-code",
+  "repository": "https://github.com/hooklistener/skills",
+  "keywords": [
+    "webhooks",
+    "mcp",
+    "email-testing",
+    "websocket",
+    "stripe",
+    "testing"
+  ]
+}
