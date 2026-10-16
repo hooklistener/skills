@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hooklistener": {
+      "type": "http",
+      "url": "https://app.hooklistener.com/api/mcp"
+    }
+  }
+}

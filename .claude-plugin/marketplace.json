@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "hooklistener",
+  "owner": {
+    "name": "Hooklistener",
+    "email": "support@hooklistener.com"
+  },
+  "metadata": {
+    "description": "Hooklistener's Claude Code plugin."
+  },
+  "plugins": [
+    {
+      "name": "hooklistener",
+      "source": "./",
+      "description": "Test webhooks, emails and real-time clients end to end with the hosted Hooklistener MCP server."
+    }
+  ]
+}
